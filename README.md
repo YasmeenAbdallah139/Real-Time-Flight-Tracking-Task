@@ -35,7 +35,6 @@ The data reached postgres successfully
 ### Step 6: 
 The script file for streamlit worked automatically as soon as the data reached postgres and it's stream 
 ![streamlit](images/streamlit.jpg)
-
 ![streamlit](images/streamlit2.jpg)
 
 
