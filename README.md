@@ -18,6 +18,17 @@ I made a kafka producer using faker and connected it to the kafka brocker and ma
 
 ### Step 3:
 I set the connection in postgres and created the flights table in the database
+```sql
+CREATE TABLE flights (
+    flight_id VARCHAR PRIMARY KEY,
+    origin TEXT,
+    destination TEXT,
+    status TEXT,
+    departure_time BIGINT,
+    arrival_time BIGINT
+);
+```
+
 ##
 
 ### Step 4:
