@@ -48,6 +48,11 @@ The script file for streamlit worked automatically as soon as the data reached p
 ![streamlit](images/streamlit.jpg)
 ![streamlit](images/streamlit2.jpg)
 
+### 🙏 Acknowledgments
+Special thanks to my instructor Eng:Mohamed Hamed for their invaluable guidance.
+##
+
+### Built with modern data engineering best practices 🚀✨
 
 
 
