@@ -11,7 +11,7 @@ I ran docker compose yaml file and made sure all containers are running
 ##
 
 ### Step 2:
-I made a kafka producer using faker and connected it to the kafka brocker and made sure that the kafka topic is shown in kafka UI I accessed in localhost
+I made a kafka producer using faker and connected it to the kafka brocker and made sure that the kafka topic is shown in kafka UI I accessed in localhost8080
 
 ![producer](images/producer.jpg)
 ##
